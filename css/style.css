@@ -1,0 +1,46 @@
+.fondo{
+    background-color: lightgrey;
+}
+
+.batlogo {
+    margin: auto;
+    display: block;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: darkblue;
+    background-color: rgb(182, 182, 182);
+}
+
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    color: darkblue;
+    background-color: rgb(182, 182, 182);
+}
+
+b{
+    font-style: italic;
+}
+
+li{
+    font-style: none;
+}
+
+.sangria{
+    font-style: none;
+    text-align: right;
+}
+
+footer p img.icon_aling{
+    vertical-align: bottom;
+    width: 25px;
+}
+
+footer{
+    font-size: 30px;
+    text-align: center;
+    color: white;
+    background-color: blue;
+}
